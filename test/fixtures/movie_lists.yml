@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  imdbID: MyString
+  user: one
+  status: 1
+
+two:
+  imdbID: MyString
+  user: two
+  status: 1
